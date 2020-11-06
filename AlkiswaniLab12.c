@@ -114,4 +114,3 @@ char determineLetterGrade (int score) {
     }
 
 
-}
